@@ -16,6 +16,6 @@ This project demonstrates a complete data analysis workflow using Microsoft Exce
 
 ## 📁 Project Resources
 
-* **Financial Sample Data:** The data used for the project.
-* **Sales_and_Profitability_Analysis.xlsx:** Excel file showcasing the analysis 
+* **Financial Sample.xlsx:** The data used for the project.
+* **Sales_and_Profitability_Analysis.xlsx:** Excel file showing the analysis 
 * **Sales_and_Profitability_Analysis.pdf:** A formal document summarizing the methodology and findings.
